@@ -1,0 +1,13 @@
+:root {
+	--or-or: #ffff;
+}
+
+header {
+	background-color: mediumpurple;
+	background-color: red;
+	color: var(--or-or);
+}
+
+body {
+	background: red;
+}	
